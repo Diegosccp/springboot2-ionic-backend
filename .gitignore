@@ -1,7 +1,7 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
-### STS ###
+### STS - Diego ###
 .apt_generated
 .classpath
 .factorypath
